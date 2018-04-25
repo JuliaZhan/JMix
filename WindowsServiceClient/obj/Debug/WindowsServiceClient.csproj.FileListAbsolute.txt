@@ -1,0 +1,13 @@
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\WindowsServiceClient.exe.config
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\WindowsServiceClient.exe
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\WindowsServiceClient.pdb
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.csprojResolveAssemblyReference.cache
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.Form1.resources
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.Properties.Resources.resources
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.csproj.GenerateResource.Cache
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.exe
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\obj\Debug\WindowsServiceClient.pdb
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\WinService.exe
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\Common.dll
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\WinService.pdb
+F:\TechStudy\JMix\Jmix\WindowsServiceClient\bin\Debug\Common.pdb
