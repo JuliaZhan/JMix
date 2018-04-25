@@ -1,0 +1,10 @@
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\WinService.exe.config
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\WinService.exe
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\WinService.pdb
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\Common.dll
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\Common.pdb
+F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.csprojResolveAssemblyReference.cache
+F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.exe
+F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.pdb
+F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.ProjectInstaller.resources
+F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.csproj.GenerateResource.Cache

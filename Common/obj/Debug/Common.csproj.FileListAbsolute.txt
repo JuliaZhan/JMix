@@ -1,0 +1,5 @@
+F:\TechStudy\JMix\Jmix\Common\bin\Debug\Common.dll
+F:\TechStudy\JMix\Jmix\Common\bin\Debug\Common.pdb
+F:\TechStudy\JMix\Jmix\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\TechStudy\JMix\Jmix\Common\obj\Debug\Common.dll
+F:\TechStudy\JMix\Jmix\Common\obj\Debug\Common.pdb
