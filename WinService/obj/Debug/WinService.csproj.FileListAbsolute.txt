@@ -8,3 +8,5 @@ F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.exe
 F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.pdb
 F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.ProjectInstaller.resources
 F:\TechStudy\JMix\Jmix\WinService\obj\Debug\WinService.csproj.GenerateResource.Cache
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\Newtonsoft.Json.dll
+F:\TechStudy\JMix\Jmix\WinService\bin\Debug\Newtonsoft.Json.xml
