@@ -1,0 +1,5 @@
+F:\TechStudy\JMix\Jmix\Model\bin\Debug\Model.dll
+F:\TechStudy\JMix\Jmix\Model\bin\Debug\Model.pdb
+F:\TechStudy\JMix\Jmix\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\TechStudy\JMix\Jmix\Model\obj\Debug\Model.dll
+F:\TechStudy\JMix\Jmix\Model\obj\Debug\Model.pdb

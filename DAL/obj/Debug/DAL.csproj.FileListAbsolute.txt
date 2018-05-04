@@ -1,0 +1,7 @@
+F:\TechStudy\JMix\Jmix\DAL\bin\Debug\DAL.dll
+F:\TechStudy\JMix\Jmix\DAL\bin\Debug\DAL.pdb
+F:\TechStudy\JMix\Jmix\DAL\bin\Debug\Model.dll
+F:\TechStudy\JMix\Jmix\DAL\bin\Debug\Model.pdb
+F:\TechStudy\JMix\Jmix\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\TechStudy\JMix\Jmix\DAL\obj\Debug\DAL.dll
+F:\TechStudy\JMix\Jmix\DAL\obj\Debug\DAL.pdb
