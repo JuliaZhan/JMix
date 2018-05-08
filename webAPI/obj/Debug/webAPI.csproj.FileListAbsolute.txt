@@ -112,3 +112,5 @@ F:\TechStudy\JMix\Jmix\webAPI\obj\Debug\webAPI.csprojResolveAssemblyReference.ca
 F:\TechStudy\JMix\Jmix\webAPI\obj\Debug\webAPI.dll
 F:\TechStudy\JMix\Jmix\webAPI\obj\Debug\webAPI.pdb
 F:\TechStudy\JMix\Jmix\webAPI\bin\WebApiTestClient.XML
+F:\TechStudy\JMix\Jmix\webAPI\bin\Common.dll
+F:\TechStudy\JMix\Jmix\webAPI\bin\Common.pdb

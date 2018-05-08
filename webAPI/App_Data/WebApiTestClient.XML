@@ -481,5 +481,16 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
+        <member name="T:webAPI.Common.JAuthorizeAttribute">
+            <summary>
+            获取
+            </summary>
+        </member>
+        <member name="M:webAPI.Common.JAuthorizeAttribute.OnAuthorization(System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            
+            </summary>
+            <param name="actionContext"></param>
+        </member>
     </members>
 </doc>
