@@ -4,7 +4,7 @@ import datetime
 commit_date =datetime.datetime.strptime('2018-05-22 9:11:21','%Y-%m-%d %H:%M:%S') 
 now=datetime.datetime.strptime('2018-05-26 9:11:21','%Y-%m-%d %H:%M:%S')
 
-while commit_date < now:
+while commit_date.strftime('%Y-%m-%d %H:%M:%S') < now.strftime('%Y-%m-%d %H:%M:%S'):
     os.system('git init ')
     os.system('git add .')
     os.system('git commit --date={time} -m "test lala" '.format(time=commit_date.isoformat()))
